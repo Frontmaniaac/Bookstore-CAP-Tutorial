@@ -1,0 +1,205 @@
+code,name,descr,minorUnit
+"ADP","Peseta","Andorran Peseta --> (Old --> EUR)",0
+"AED","Dirham","United Arab Emirates Dirham",2
+"AFA","Afghani","Afghani (Old)",0
+"AFN","Afghani","Afghani",2
+"ALL","Lek","Albanian Lek",2
+"AMD","Dram","Armenian Dram",2
+"ANG","W.Ind.Guilder","West Indian Guilder (Old --> XCG)",2
+"AOA","Kwansa","Angolan Kwanza",2
+"AON","New Kwanza","Angolan New Kwanza (Old)",0
+"AOR","Kwanza Reajust.","Angolan Kwanza Reajustado (Old)",0
+"ARS","Arg. Peso","Argentine Peso",2
+"ATS","Shilling","Austrian Schilling (Old --> EUR)",2
+"AUD","Austr. Dollar","Australian Dollar",2
+"AWG","Aruban Florin","Aruban Florin",2
+"AZM","Manat","Azerbaijani Manat (Old)",2
+"AZN","Manat","Azerbaijani Manat",2
+"BAM","Convert. Mark","Bosnia and Herzegovina Convertible Mark",2
+"BBD","Dollar","Barbados Dollar",2
+"BDT","Taka","Bangladesh Taka",2
+"BEF","Belgian Franc","Belgian Franc (Old --> EUR)",0
+"BGN","Lev","Bulgarian Lev",2
+"BHD","Dinar","Bahraini Dinar",3
+"BIF","Burundi Franc","Burundi Franc",0
+"BMD","Bermudan Dollar","Bermudan Dollar",2
+"BND","Dollar","Brunei Dollar",2
+"BOB","Boliviano","Boliviano",2
+"BRL","Real","Brazilian Real",2
+"BSD","Dollar","Bahaman Dollar",2
+"BTN","Ngultrum","Bhutan Ngultrum",2
+"BWP","Pula","Botswana Pula",2
+"BYB","Belarus. Ruble","Belarusian Ruble (Old)",0
+"BYN","Bela. Ruble N.","Belarusian Ruble (New)",2
+"BYR","Ruble","Belarusian Ruble",2
+"BZD","Dollar","Belize Dollar",2
+"CAD","Canadian Dollar","Canadian Dollar",2
+"CDF","Congolese Franc","Congolese Franc",2
+"CHF","Swiss Franc","Swiss Franc",2
+"CLP","Peso","Chilean Peso",0
+"CNY","Renminbi","Chinese Renminbi",2
+"COP","Peso","Colombian Peso",2
+"CRC","Cost.Rica Colon","Costa Rica Colon",2
+"CSD","Serbian Dinar","Serbian Dinar (Old)",2
+"CUC","Peso Convertib.","Peso Convertible",2
+"CVE","Escudo","Cape Verde Escudo",2
+"CYP","Cyprus Pound","Cyprus Pound  (Old --> EUR)",2
+"CZK","Krona","Czech Krona",2
+"DEM","German Mark","German Mark    (Old --> EUR)",2
+"DJF","Djibouti Franc","Djibouti Franc",0
+"DKK","Danish Krone","Danish Krone",2
+"DOP","Dominican Peso","Dominican Peso",2
+"DZD","Dinar","Algerian Dinar",2
+"ECS","Sucre","Ecuadorian Sucre (Old --> USD)",0
+"EEK","Krona","Estonian Krone (Old --> EUR)",2
+"EGP","Pound","Egyptian Pound",2
+"ERN","Nakfa","Eritrean Nafka",2
+"ESP","Peseta","Spanish Peseta (Old --> EUR)",0
+"ETB","Birr","Ethiopian Birr",2
+"EUR","Euro","European Euro",2
+"FIM","Finnish markka","Finnish Markka (Old --> EUR)",2
+"FJD","Dollar","Fiji Dollar",2
+"FKP","Falkland Pound","Falkland Pound",2
+"FRF","French Franc","French Franc (Old --> EUR)",2
+"GBP","Pound","British Pound",2
+"GEL","Lari","Georgian Lari",2
+"GHC","Cedi","Ghanaian Cedi (Old)",2
+"GHS","Cedi","Ghanian Cedi",2
+"GIP","Gibraltar Pound","Gibraltar Pound",2
+"GMD","Dalasi","Gambian Dalasi",2
+"GNF","Franc","Guinean Franc",0
+"GRD","Drachma","Greek Drachma (Old --> EUR)",0
+"GTQ","Quetzal","Guatemalan Quetzal",2
+"GWP","Guinea Peso","Guinea Peso (Old --> SHP)",2
+"GYD","Guyana Dollar","Guyana Dollar",2
+"HKD","H.K.Dollar","Hong Kong Dollar",2
+"HNL","Lempira","Honduran Lempira",2
+"HRK","Kuna","Croatian Kuna (Old --> EUR)",2
+"HTG","Gourde","Haitian Gourde",2
+"HUF","Forint","Hungarian Forint",2
+"IDR","Rupiah","Indonesian Rupiah",2
+"IEP","Irish Punt","Irish Punt (Old --> EUR)",2
+"ILS","Scheckel","Israeli Scheckel",2
+"INR","Rupee","Indian Rupee",2
+"IQD","Dinar","Iraqui Dinar",2
+"ISK","Krona","Iceland Krona",0
+"ITL","Lire","Italian Lira (Old --> EUR)",0
+"JMD","Jamaican Dollar","Jamaican Dollar",2
+"JOD","Jordanian Dinar","Jordanian Dinar",3
+"JPY","Yen","Japanese Yen",0
+"KES","Shilling","Kenyan Shilling",2
+"KGS","Som","Kyrgyzstan Som",2
+"KHR","Riel","Cambodian Riel",2
+"KMF","Comoros Franc","Comoros Franc",0
+"KRW","S.Korean Won","South Korean Won",0
+"KWD","Dinar","Kuwaiti Dinar",3
+"KYD","Cayman Dollar","Cayman Dollar",2
+"KZT","Tenge","Kazakh Tenge",2
+"LAK","Kip","Laotian Kip",2
+"LBP","Lebanese Pound","Lebanese Pound",2
+"LKR","Sri Lanka Rupee","Sri Lankan Rupee",2
+"LRD","Liberian Dollar","Liberian Dollar",2
+"LSL","Loti","Lesotho Loti",2
+"LTL","Lita","Lithuanian Lita",2
+"LUF","Lux. Franc","Luxembourg Franc (Old --> EUR)",0
+"LVL","Lat","Latvian Lat",2
+"LYD","Libyan Dinar","Libyan Dinar",3
+"MAD","Dirham","Moroccan Dirham",2
+"MDL","Leu","Moldavian Leu",2
+"MGA","Madagasc.Ariary","Madagascan Ariary",2
+"MGF","Madagascan Fr.","Madagascan Franc (Old",0
+"MKD","Maced. Denar","Macedonian Denar",2
+"MMK","Kyat","Myanmar Kyat",2
+"MNT","Tugrik","Mongolian Tugrik",2
+"MOP","Pataca","Macao Pataca",2
+"MRO","Ouguiya","Mauritanian Ouguiya",2
+"MRU","Ouguiya","Mauritanian Ouguiya",2
+"MTL","Lira","Maltese Lira (Old --> EUR)",2
+"MUR","Rupee","Mauritian Rupee",2
+"MVR","Rufiyaa","Maldivian Rufiyaa",2
+"MWK","Malawi Kwacha","Malawi Kwacha",2
+"MXN","Peso","Mexican Pesos",2
+"MYR","Ringgit","Malaysian Ringgit",2
+"MZM","Metical","Mozambique Metical (Old)",0
+"MZN","Metical","Mozambique Metical",2
+"NAD","Namibian Dollar","Namibian Dollar",2
+"NGN","Naira","Nigerian Naira",2
+"NIO","Cordoba Oro","Nicaraguan Cordoba Oro",2
+"NLG","Guilder","Dutch Guilder (Old --> EUR)",2
+"NOK","Norwegian Krone","Norwegian Krone",2
+"NPR","Rupee","Nepalese Rupee",2
+"NZD","N.Zeal.Dollars","New Zealand Dollars",2
+"OMR","Omani Rial","Omani Rial",3
+"PAB","Balboa","Panamanian Balboa",2
+"PEN","New Sol","Peruvian New Sol",2
+"PGK","Kina","Papua New Guinea Kina",2
+"PHP","Peso","Philippine Peso",2
+"PKR","Rupee","Pakistani Rupee",2
+"PLN","Zloty","Polish Zloty (new)",2
+"PTE","Escudo","Portuguese Escudo (Old --> EUR)",0
+"PYG","Guarani","Paraguayan Guarani",0
+"QAR","Rial","Qatar Rial",2
+"ROL","Leu (Old)","Romanian Leu (Old)",0
+"RON","Leu","Romanian Leu",2
+"RSD","Serbian Dinar","Serbian Dinar",2
+"RUB","Ruble","Russian Ruble",2
+"RWF","Franc","Rwandan Franc",0
+"SAR","Rial","Saudi Riyal",2
+"SBD","Sol.Isl.Dollar","Solomon Islands Dollar",2
+"SCR","Rupee","Seychelles Rupee",2
+"SDD","Dinar","Sudanese Dinar (Old)",2
+"SDG","Pound","Sudanese Pound",2
+"SDP","Pound","Sudanese Pound (until 1992)",2
+"SEK","Swedish Krona","Swedish Krona",2
+"SGD","Sing.Dollar","Singapore Dollar",2
+"SHP","St.Helena Pound","St.Helena Pound",2
+"SIT","Tolar","Slovenian Tolar (Old --> EUR)",2
+"SKK","Krona","Slovakian Krona (Old --> EUR)",2
+"SLL","Leone","Sierra Leone Leone",2
+"SOS","Shilling","Somalian Shilling",2
+"SRD","Surinam Doillar","Surinam Dollar",2
+"SRG","Surinam Guilder","Surinam Guilder (Old)",2
+"SSP","Pound","South Sudanese Pound",2
+"STD","Dobra","Sao Tome / Principe Dobra",2
+"SVC","Colon","El Salvador Colon",2
+"SZL","Lilangeni","Swaziland Lilangeni",2
+"THB","Baht","Thailand Baht",2
+"TJR","Ruble","Tajikistani Ruble (Old)",0
+"TJS","Somoni","Tajikistani Somoni",2
+"TMM","Manat (Old)","Turkmenistani Manat (Old)",0
+"TMT","Manat","Turkmenistani Manat",2
+"TND","Dinar","Tunisian Dinar",3
+"TOP","Pa'anga","Tongan Pa'anga",2
+"TPE","Timor Escudo","Timor Escudo --> USD",2
+"TRL","Lira (Old)","Turkish Lira (Old)",0
+"TRY","Lira","Turkish Lira",2
+"TTD","T.+ T. Dollar","Trinidad and Tobago Dollar",2
+"TWD","Dollar","New Taiwan Dollar",2
+"TZS","Shilling","Tanzanian Shilling",2
+"UAH","Hryvnia","Ukraine Hryvnia",2
+"UGX","Shilling","Ugandan Shilling",0
+"USD","US Dollar","United States Dollar",2
+"UYU","Peso","Uruguayan Peso",2
+"UZS","Total","Uzbekistan Som",2
+"VEB","Bolivar (Old)","Venezuelan Bolivar (Old)",2
+"VEF","Bolivar","Venezuelan Bolivar",2
+"VES","Bolivar","Venezuelan Bolivar",2
+"VND","Dong","Vietnamese Dong",0
+"VUV","Vatu","Vanuatu Vatu",2
+"WST","Tala","Samoan Tala",2
+"XAF","CFA Franc BEAC","Gabon CFA Franc BEAC",0
+"XCD","Dollar","East Caribbean Dollar",2
+"XCG","Caribbean Guilder","Caribbean Guilder",2
+"XEU","E.C.U.","European Currency Unit (E.C.U.)",2
+"XOF","CFA Franc BCEAO","Benin CFA Franc BCEAO",0
+"XPF","Fr. Franc (Pac)","French Franc (Pacific Islands)",0
+"YER","Yemeni Ryal","Yemeni Ryal",2
+"YUM","New Dinar","New Yugoslavian Dinar (Old)",2
+"ZAR","Rand","South African Rand",2
+"ZMK","Kwacha","Zambian Kwacha (Old)",2
+"ZMW","Kwacha","Zambian Kwacha (New)",2
+"ZRN","Zaire","Zaire (Old)",2
+"ZWD","Zimbabwe Dollar","Zimbabwean Dollar (Old)",2
+"ZWL","Zimbabwe Dollar","Zimbabwean Dollar (New)",2
+"ZWN","Zimbabwe Dollar","Zimbabwean Dollar (Old)",2
+"ZWR","Zimbabwe Dollar","Zimbabwean Dollar (Old)",2
