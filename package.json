@@ -12,6 +12,23 @@
         "credentials": {
           "url": "db.sqlite"
         }
+      },
+      "auth": {
+        "kind": "mocked",
+        "users": {
+          "alice": {
+            "password": "123",
+            "roles": [
+              "admin"
+            ]
+          },
+          "bob": {
+            "password": "321",
+            "roles": [
+              "user-that-can-call-actions"
+            ]
+          }
+        }
       }
     }
   },
